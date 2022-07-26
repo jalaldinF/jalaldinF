@@ -23,7 +23,7 @@
 <br>
 <br>
 
-### [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jalaldinF&theme=rogue)](https://t.me/jalal_bi3)
+###  (https://activity-graph.herokuapp.com/graph?username=jalaldinF&theme=rogue)](https://t.me/jalal_bi3)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
