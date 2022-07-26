@@ -20,4 +20,4 @@
           
 ![Snake animation](https://github.com/jalaldinF/jalaldinF/blob/output/github-contribution-grid-snake.svg)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jalaldinF&theme=rogue)](https://t.me/jalal_bi3)
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jalaldinF&theme=rogue)](https://t.me/jalal_bi3)
